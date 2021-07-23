@@ -105,6 +105,11 @@ hr{
 .top-blogs{
     margin: 30px 50px;
 }
+.blogs-title{
+    color: #562EFF;
+    font-size: 24px;
+    margin-top: 3px;
+}
 .blogs{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -142,13 +147,18 @@ hr{
     background: #FFFFFF;
     width: 64%;
     border-radius: 5px;
-    margin-top: 30px;
+    margin-top: 0px;
     margin-bottom: 30px;  
 }
 
 /* Latest Courses */
 .latest-courses{
     margin: 30px 50px;
+}
+.courses-title{
+    color: #562EFF;
+    font-size: 24px;
+    margin-top: 3px;
 }
 .courses{
     display: flex;
@@ -190,6 +200,11 @@ hr{
 /* Latest Works */
 .latest-works{
     margin: 30px 50px;
+}
+.works-title{
+    color: #562EFF;
+    font-size: 24px;
+    margin-top: 3px;
 }
 .works{
     display: grid;
